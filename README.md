@@ -29,6 +29,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/CoderAlchemy24/frm-bmi-calculator.git](https://github.com/CoderAlchemy24/frm-bmi-calculator.git)
+- Live Site URL: [https://vocal-hamster-bb61f9.netlify.app/](https://vocal-hamster-bb61f9.netlify.app/)
 
