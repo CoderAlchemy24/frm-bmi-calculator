@@ -550,3 +550,18 @@ article p {
 }
 }
 
+@media (width < 769px) {
+  .section-1,
+  .section-2,
+  .section-3,
+  .section-4{
+    width: 100%;
+    margin: 0.5rem auto;
+    padding:0;
+    position:static;
+    flex:initial;
+    grid: initial;
+
+ }
+
+}
